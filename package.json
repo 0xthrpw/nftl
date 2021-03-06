@@ -1,0 +1,34 @@
+{
+  "name": "nftl",
+  "version": "1.0.0",
+  "description": "not faster than light",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xthrpw/nftl.git"
+  },
+  "keywords": [
+    "nftl"
+  ],
+  "author": "0xthrpw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xthrpw/nftl/issues"
+  },
+  "homepage": "https://github.com/0xthrpw/nftl#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-etherscan": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^3.4.1",
+    "chai": "^4.3.3",
+    "dotenv": "^8.2.0",
+    "ethereum-waffle": "^3.3.0",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.1.1",
+    "hardhat-gas-reporter": "^1.0.4"
+  }
+}
